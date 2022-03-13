@@ -11,7 +11,7 @@ You should see the following:
 ***
 ![image](https://user-images.githubusercontent.com/72443284/158067597-26f597e2-206e-464e-9d08-cb4d3552c4fe.png)
 ***
-You can also change the listening server in [main.go](./main/main.go):
+You can also change the listening server in [main.go](./main.go):
 
 
 ```
