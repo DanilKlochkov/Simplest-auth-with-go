@@ -1,7 +1,9 @@
 # Simplest-auth-with-go
 <img src="https://img.shields.io/github/watchers/DanilKl4/Simplest-auth-with-go?style=social"/>
 It's a learning project. To run it, navigate to a folder in your console. 
-Then type `go run main.go` to start the server.
+Then type 
+`go run main.go` 
+to start the server.
  
 *Then go to* http://localhost:5000/sign-up-form
 
