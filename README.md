@@ -1,5 +1,6 @@
 # Simplest-auth-with-go
 <img src="https://img.shields.io/github/watchers/DanilKl4/Simplest-auth-with-go?style=social"/>
+<img src="https://img.shields.io/github/stars/DanilKl4/Simplest-auth-with-go?style=social"/>
 It's a learning project. To run it, navigate to a folder in your console. 
 Then type to start the server:
 
